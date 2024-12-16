@@ -22,7 +22,7 @@ Here’s why millions of users prefer Cydia 2:
 
 Installing Cydia 2 on iOS 18.1 is quick and easy. Here's how to start:
 
-1. Open Safari Browser: Visit the [official Cydia 2 website](https://cydia2.com/).
+1. Open Safari Browser: Visit the [official Cydia 2 website](https://cydia2.com/) 📦.
 2. Tap ‘Download’: Start the installation process directly on your device.
 3. Install Profile: Follow the on-screen instructions to add the Cydia 2 profile to your settings.
 4. Complete Installation: Once the profile is installed, launch Cydia 2 from your home screen and start exploring tweaks and apps.
@@ -34,9 +34,13 @@ Tip: For advanced features, pair Cydia 2 with tools like Hacksnow for rootless j
 Once Cydia 2 is installed, explore these top tweaks and apps to enhance your iOS 18.1 experience:
 
 MisakaX: Dynamic Island and Apple Intelligence features for any device.
+
 SnowBoard: A lightweight theme engine to transform your home screen.
+
 iCleaner Pro: Optimize storage and improve device performance.
+
 AppSync Unified: Install unsigned IPA files with ease.
+
 Activator: Create custom gestures for improved multitasking.
 
 ## Customize iOS 18.1 with Cydia 2
